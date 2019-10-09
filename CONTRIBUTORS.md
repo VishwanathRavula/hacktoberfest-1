@@ -579,3 +579,10 @@
 - Place: California, US
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
+
+
+#### Name: [Vishwanath Ravula](https://github.com/VishwanathRavula)
+
+- Place: Manglore, India
+- Bio: Currently studying Masters in Computer Science.
+- GitHub: [Vishwanath Ravula](https://github.com/VishwanathRavula)
